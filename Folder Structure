@@ -1,0 +1,16 @@
+portfolio-website/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── styles/
+│   ├── main.css
+│   └── components.css
+├── scripts/
+│   └── main.js
+├── assets/
+│   ├── profile.jpg
+│   └── project-screenshot.png
+├── README.md
+├── .gitignore
+└── LICENSE
