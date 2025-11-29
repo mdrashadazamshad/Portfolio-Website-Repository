@@ -1,0 +1,2 @@
+# Portfolio Website Repository
+A sleek, responsive, and fully customizable portfolio website template built for digital marketers, freelancers, and creative professionals. Showcases projects, skills, testimonials, and contact information in a modern, SEO-optimized layout. Designed to highlight your expertise, attract clients, and generate leads. Built with HTML, CSS, and JavaScript, it’s mobile-friendly, fast, and easy to deploy.
